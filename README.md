@@ -1,1 +1,3 @@
 # PokerPlanning
+
+Poker planning app.
